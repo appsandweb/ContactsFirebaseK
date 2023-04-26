@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "345452873628",
+    "project_id": "contactsfirebasek",
+    "storage_bucket": "contactsfirebasek.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345452873628:android:bab6d1c14d5fc229c06a59",
+        "android_client_info": {
+          "package_name": "com.example.contactsfirebasek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345452873628-mpjutu4b1n6172hli1o4ah9otg67a88p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_Uk-n8HWjFUFUxZHEF0NytMuYMT9qpRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345452873628-mpjutu4b1n6172hli1o4ah9otg67a88p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
